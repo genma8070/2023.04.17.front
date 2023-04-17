@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.area1 {
+  width: 100%;
+  height: 100px;
+  position: relative;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+.area1 .icon {
+  height: 50px;
+  width: 50px;
+  background-color: darkcyan;
+}
+.area1 .back {
+  padding: 0 5px 1px 5px;
+  background-color: darkcyan;
+  color: white;
+  border-radius: 3px;
+}
+.area1 p {
+  padding-top: 45px;
+}
+.area1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.area2 {
+  width: 100%;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: gray;
+  font-size: 24px;
+  font-weight: 200;
+}/*# sourceMappingURL=style.css.map */
